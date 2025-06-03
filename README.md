@@ -21,7 +21,7 @@
 
 ## 🛠 Tech Stack
 
-#### 🔧 Lenguajes
+### 🔧 Lenguajes
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -32,7 +32,9 @@
 ![C#](https://img.shields.io/badge/C%23-68217A.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🖥️ Frameworks y Librerías
+---
+
+### 🖥️ Frameworks & Librerías
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -42,34 +44,53 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Yii](https://img.shields.io/badge/Yii-005F9E?style=for-the-badge&logo=yiiframework&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-%23121011.svg?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-111111?style=for-the-badge&logo=clerk&logoColor=white)
 
-#### ☁️ Cloud & DevOps
+---
+
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-%231572B6.svg?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%231572B6.svg?style=for-the-badge)
+![Neon](https://img.shields.io/badge/Neon-1F2937?style=for-the-badge&logo=neon&logoColor=white)
 
-#### 🤖 Automatización e IA
+---
+
+### 📊 Datos y Reportes
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+### 🤖 Automatización e IA
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Make](https://img.shields.io/badge/Make.com-%23FFFFFF.svg?style=for-the-badge&logo=make&logoColor=black)
 
 ---
 
-<div align="Center">
-<h1>Operating Systems</h1>
-
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
-
+## 💻 Sistemas Operativos
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,mint,arch" />
 </div>
 
-<br>
+---
+
 <br>
 
-| Snake Eating Contributions in the last year |
-| ------------------------------------------ |
-| ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) |
+## 🐍 Snake Eating Contributions
 
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
 ---
 
 ### 📬 Contacto
