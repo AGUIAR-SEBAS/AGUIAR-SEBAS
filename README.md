@@ -75,7 +75,7 @@
 ### 📬 Contacto
 
 <div align="center">
-  <a href="mailto:sebastianaguiar.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:sebas7771999@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/sebastian-aguiar-gómez-b128231a7/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/AGUIAR-SEBAS"><img src="https://skillicons.dev/icons?i=github" /></a>
 </div>
