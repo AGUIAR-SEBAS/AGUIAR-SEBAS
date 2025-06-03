@@ -56,11 +56,27 @@
 
 ---
 
+<div align="Center">
+<h1>Operating Systems</h1>
+
+<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+
+</div>
+
+<br>
+<br>
+
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+
+---
+
 ### 📬 Contacto
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sebastian-aguiar-gómez-b128231a7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <!-- Puedes añadir más redes aquí si lo deseas -->
+<div align="Center">
+
+|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
+| ----------|
+| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 </div>
