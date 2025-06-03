@@ -77,20 +77,20 @@
 
 ---
 
-## 💻 Sistemas Operativos
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,mint,arch" />
-</div>
+<div align="Center">
+<h1>💻 Sistemas Operativos</h1>
 
----
+<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+
+</div>
 
 <br>
+<br>
 
-## 🐍 Snake Eating Contributions
+| 🐍 Snake Eating Contributions |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
 ---
 
 ### 📬 Contacto
