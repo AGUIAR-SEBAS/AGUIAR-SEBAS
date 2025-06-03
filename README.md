@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Líder%20Tecnológico;Full%20Stack%20Developer;IA%20y%20Cloud%20Computing;Fintech%20y%20Automatización;¡Bienvenido%20a%20mi%20repositorio!&center=true&width=440&height=45"></a>
+  <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;IA%20y%20Cloud%20Computing;Fintech%20y%20Automatización;¡Bienvenido%20a%20mi%20repositorio!&center=true&width=440&height=45"></a>
 </p>
 
 ---
@@ -67,16 +67,15 @@
 <br>
 
 | Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+| ------------------------------------------ |
+| ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) |
 
 ---
 
 ### 📬 Contacto
 
-<div align="Center">
-
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+<div align="center">
+  <a href="mailto:sebastianaguiar.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/sebastian-aguiar-gómez-b128231a7/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/AGUIAR-SEBAS"><img src="https://skillicons.dev/icons?i=github" /></a>
 </div>
