@@ -56,18 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AGUIAR-SEBAS&theme=algolia&show_icons=true&count_private=true&border_radius=20" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AGUIAR-SEBAS&theme=dracula" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AGUIAR-SEBAS&theme=react-dark" />
-</div>
-
----
-
 ### 📬 Contacto
 
 <div align="center">
