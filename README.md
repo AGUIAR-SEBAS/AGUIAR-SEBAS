@@ -13,7 +13,6 @@
 
 ---
 
-- 🚀 Líder de Tecnología en G7 Business Solutions Corp.
 - 🧠 Apasionado por la innovación, automatización y la inteligencia artificial.
 - 💼 Especializado en desarrollo full stack, cloud computing y APIs financieras.
 - 📚 Actualmente cursando Ingeniería de Sistemas en la Fundación San José.
